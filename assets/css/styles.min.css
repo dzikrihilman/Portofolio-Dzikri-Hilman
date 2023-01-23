@@ -1,0 +1,439 @@
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+1F00-1FFF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0370-03FF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+1F00-1FFF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0370-03FF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+1F00-1FFF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0370-03FF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+1F00-1FFF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0370-03FF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+1F00-1FFF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0370-03FF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/assets/fonts/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2?h=b996104daaedfffce47b855c6c00e320) format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD
+}
+
+@media (max-width:576px) {
+
+    img,
+    svg {
+        height: auto
+    }
+}
+
+.bs-icon {
+    --bs-icon-size: .75rem;
+    display: flex;
+    flex-shrink: 0;
+    justify-content: center;
+    align-items: center;
+    font-size: var(--bs-icon-size);
+    width: calc(var(--bs-icon-size) * 2);
+    height: calc(var(--bs-icon-size) * 2);
+    color: var(--bs-primary)
+}
+
+.bs-icon-xs {
+    --bs-icon-size: 1rem;
+    width: calc(var(--bs-icon-size) * 1.5);
+    height: calc(var(--bs-icon-size) * 1.5)
+}
+
+.bs-icon-sm {
+    --bs-icon-size: 1rem
+}
+
+.bs-icon-md {
+    --bs-icon-size: 1.5rem
+}
+
+.bs-icon-lg {
+    --bs-icon-size: 2rem
+}
+
+.bs-icon-xl {
+    --bs-icon-size: 2.5rem
+}
+
+.bs-icon.bs-icon-primary {
+    color: var(--bs-white);
+    background: var(--bs-primary)
+}
+
+.bs-icon.bs-icon-primary-light {
+    color: var(--bs-primary);
+    background: rgba(var(--bs-primary-rgb), .2)
+}
+
+.bs-icon.bs-icon-semi-white {
+    color: var(--bs-primary);
+    background: rgba(255, 255, 255, .5)
+}
+
+.bs-icon.bs-icon-rounded {
+    border-radius: .5rem
+}
+
+.bs-icon.bs-icon-circle {
+    border-radius: 50%
+}
+
+@media (max-width:300px) {
+    #button-porto {
+        margin: 30px
+    }
+}
+
+.page-1{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1000' height='600' preserveAspectRatio='none' viewBox='0 0 1000 600'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1063%26quot%3b)' fill='none'%3e%3cpath d='M757.1290399837314 9.713361418157248L693.1483821180142 85.96254028616687 839.5124793528872 143.80893765073802z' fill='rgba(64%2c 62%2c 75%2c 0.65)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M336.41596974374716 333.30596286498337L384.5892835267686 165.30565257039393 216.58897323217917 117.13233878737248 168.41565944915772 285.1326490819619z' fill='rgba(64%2c 62%2c 75%2c 0.65)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M597.1974725920024 230.76071214527624L673.6513496918778 232.09521953406852 637.4261722251285 116.74715018985925z' fill='rgba(64%2c 62%2c 75%2c 0.65)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M198.46108370945723 94.44234820538273L64.39871056211666 206.9340360680671 310.9527715721416 228.5047213527233z' fill='rgba(64%2c 62%2c 75%2c 0.65)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M149.8946268573648 515.9156027865142L42.859792451496034 416.1040049607952-56.951805374223 523.138839366664 50.083029031645765 622.950437192383z' fill='rgba(64%2c 62%2c 75%2c 0.65)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M125.3818008093345 461.5360046084308L128.82816155974342 560.22686396144 227.5190209127526 556.7805032110311 224.0726601623437 458.0896438580219z' fill='rgba(64%2c 62%2c 75%2c 0.65)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M938.5749906128905 390.6949532894505L854.8989571751307 427.94992364877737 892.1539275344576 511.62595708653714 975.8299609722173 474.37098672721027z' fill='rgba(64%2c 62%2c 75%2c 0.65)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M286.44113527109414 606.9555974173895L270.0384091110985 522.5708866781227 151.66270608219622 589.3673312877496z' fill='rgba(64%2c 62%2c 75%2c 0.65)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1044.220657643098 289.34117750601644L922.5157139745284 321.951918876885 1076.8313990139666 411.0461211745862z' fill='rgba(64%2c 62%2c 75%2c 0.65)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M423.2132946938071 525.1088917574048L533.2267704428277 445.3395013723865 425.5670814815786 395.1369639351709z' fill='rgba(64%2c 62%2c 75%2c 0.65)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M835.7150846334473 530.5871094271185L915.3146147922021 453.71873667289185 838.4462420379754 374.11920651413703 758.8467118792206 450.98757926836373z' fill='rgba(64%2c 62%2c 75%2c 0.65)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M843.391463545202 512.6871387799999L963.9385660597718 407.89714128191116 859.1485685616831 287.35003876734135 738.6014660471133 392.1400362654301z' fill='rgba(64%2c 62%2c 75%2c 0.65)' class='triangle-float2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1063'%3e%3crect width='1000' height='600' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+    object-fit: cover;
+}
+
+#aing {
+    position: relative
+}
+
+#aing:hover::before {
+    scale: 1;
+    transform-origin: left
+}
+
+#aing::before {
+    position: absolute;
+    content: '';
+    left: 0;
+    bottom: 0;
+    width: 50%;
+    height: 4px;
+    border-radius: 4px;
+    background-color: #19f5aa;
+    scale: 0;
+    transform-origin: right;
+    transition: scale .3s;
+    margin-top: 2px
+}
+
+.artikel {
+    margin: 10px 40px
+}
+
+.artikel-image {
+    width: 1289px;
+    height: 600px;
+    border-radius: 20px;
+    object-fit: cover
+}
+
+.article-image {
+    width: 100%;
+    height: 600px
+}
+.imgbox{
+    right: 0px;
+    animation: animateUser 4s linear infinite;
+}
+@keyframes animateUser{
+    50%{
+        right: 10px;
+    }
+}
